@@ -1,3 +1,3 @@
-# Awesome Theme
+#   Awesome Theme
 
 **Created by:** The New Guy
